@@ -1,3 +1,46 @@
-p {
-  color: red;
+My Css style sheet:
+
+
+H1 {
+  font-family: Palatino, ‘Palatino Linotype’, serif;
+  color: rgb(218,190,206);
+  Font-size:  55px;
+  Margin-bottom: -30px;
+  text-align: center;
 }
+
+H2 {
+  font-size: 48px;
+  margin-bottom: -10;
+  text-align: center;
+}
+
+H3 {
+  font-size:  25px;
+}
+
+Li {
+  Font-size: 20px;
+}
+
+.Experience {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  border: 5px solid #FFF;
+  padding: 20px;
+  margin: 5px;
+}
+
+.Education{
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	border: 5 px solid #FFF;
+	padding: 20px;
+	margin: 5px;
+}
+
+.Honors{
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	border: 5 px solid #FFF;
+	padding: 20px;
+	margin: 5px;
+}
+
