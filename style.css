@@ -1,46 +1,57 @@
-My Css style sheet:
-
-
 H1 {
-  font-family: Palatino, ‘Palatino Linotype’, serif;
-  color: rgb(218,190,206);
-  Font-size:  55px;
-  Margin-bottom: -30px;
-  text-align: center;
+    font-family: Palatino, ‘Palatino Linotype’, serif;
+    Font-size:  55px;
+    width: 500px;
+    Margin-bottom: 20px;
+    text-align: center;
+    border: 2px solid grey;
 }
 
 H2 {
-  font-size: 48px;
-  margin-bottom: -10;
-  text-align: center;
+    font-size: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+    border: 2px solid grey;
+    width: 500px;
+}
+
+.slogan {
+    font-family: 'Trebuchet MS', arial;
+    text-align: center;
+    width: 500px;
+    padding: 20px;
 }
 
 H3 {
-  font-size:  25px;
+    font-size:  25px;
+    text-align: center;
+    border-bottom: 2px solid black;
 }
 
 Li {
-  Font-size: 20px;
+    Font-size: 16px;
+}
+
+body {
+    font-family: 'Trebuchet MS', arial;
+    width: 900px;
 }
 
 .Experience {
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  border: 5px solid #FFF;
-  padding: 20px;
-  margin: 5px;
+    font-family: 'Trebuchet MS', Helvetica, arial;
+    padding: 15px;
+    margin: 5px;
+
 }
 
 .Education{
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	border: 5 px solid #FFF;
-	padding: 20px;
+    font-family: 'Trebuchet MS', Helvetica, arial;
+	padding: 15px;
 	margin: 5px;
 }
 
 .Honors{
-  font-family: 'Trebuchet MS', Helvetica, sans-serif;
-	border: 5 px solid #FFF;
-	padding: 20px;
-	margin: 5px;
+    font-family: 'Trebuchet MS', Helvetica, arial;
+	padding: 15px;
+	margin: 10px;
 }
-
